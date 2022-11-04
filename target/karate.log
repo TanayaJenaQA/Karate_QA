@@ -1,0 +1,2 @@
+22:02:57.294 [main] WARN  com.intuit.karate.Runner - the @KarateOptions annotation is deprecated, please use Runner.builder()
+22:02:58.975 [main] WARN  com.intuit.karate.junit4.Karate - no feature files scanned

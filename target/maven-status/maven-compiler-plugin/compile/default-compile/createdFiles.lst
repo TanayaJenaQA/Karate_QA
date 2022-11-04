@@ -1,0 +1,6 @@
+com\bpm\application\api\JsonHelper.class
+com\application\bpm\ui\base\UIActions.class
+com\application\bpm\ui\base\DBUtils.class
+com\application\bpm\ui\base\PropertyReader.class
+com\bpm\application\api\ApiBase.class
+com\application\bpm\ui\pages\login\LogIn.class
